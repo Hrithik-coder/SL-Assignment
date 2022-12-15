@@ -1,0 +1,15 @@
+header {
+    padding: 1rem 0;
+    width: 100vw;
+    display: flex;
+    gap: 5vw;
+    justify-content: center;
+  }
+  .cards_container {
+    /* padding: 1rem; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* column-gap: 2.5vw;
+    row-gap: 2.5vw; */
+  }
